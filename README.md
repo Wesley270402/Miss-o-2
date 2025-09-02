@@ -35,6 +35,6 @@ Durante o desenvolvimento, aprendi e pratiquei:
 
 ## 🚀 Como visualizar
 
-Você pode acessar a versão online aqui: 
+Você pode acessar a versão online aqui: https://github.com/Wesley270402/Miss-o-2.git
 
-Ou rodar localmente:
+
